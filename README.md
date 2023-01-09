@@ -10,7 +10,8 @@ pip install rich
 pip install locate 
 pip install bs4
 pip install futures 
-#MAIN INSTALLATION 
+
+# MAIN INSTALLATION 
 rm -rf RANDOM
 git clone https://github.com/TURAG-CYBER-404/RANDOM.git
 cd RANDOM
