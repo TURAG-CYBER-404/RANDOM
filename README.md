@@ -15,7 +15,7 @@ pip install futures
 rm -rf RANDOM
 git clone https://github.com/TURAG-CYBER-404/RANDOM.git
 cd RANDOM
-python TMS.py
+python 500membersp.py
 
 -------------------------------------
 Thanks For Using My Tools😘
