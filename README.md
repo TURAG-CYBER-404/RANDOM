@@ -12,10 +12,11 @@ pip install bs4
 pip install futures 
 
 # MAIN INSTALLATION 
+
 rm -rf RANDOM
 git clone https://github.com/TURAG-CYBER-404/RANDOM.git
 cd RANDOM
-python 500membersp.py
+python ALL-IN-ONE.py
 
 -------------------------------------
 Thanks For Using My Tools😘
