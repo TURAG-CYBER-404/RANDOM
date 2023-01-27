@@ -1,4 +1,4 @@
-# UPDATE DONE 
+# UPDATE DONE
 pkg update 
 pkg upgrade 
 pkg install python 
