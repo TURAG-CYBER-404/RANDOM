@@ -15,8 +15,8 @@ pip install futures
 
 rm -rf RANDOM
 git clone https://github.com/TURAG-CYBER-404/RANDOM.git
-cd RANDOM
-python ALL-IN-ONE.py
+cd RANDOMgit pull
+python FIRE.py
 
 -------------------------------------
 Thanks For Using My Tools😘
