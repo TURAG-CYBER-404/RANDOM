@@ -17,7 +17,7 @@ rm -rf RANDOM
 git clone https://github.com/TURAG-CYBER-404/RANDOM.git
 cd RANDOM
 git pull
-python FIRE.py
+python TURAG.py
 
 -------------------------------------
 Thanks For Using My Tools😘
