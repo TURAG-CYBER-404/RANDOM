@@ -14,10 +14,10 @@ pip install futures
 # MAIN INSTALLATION 
 
 rm -rf RANDOM
-git clone https://github.com/TURAG-CYBER-404/RANDOM.git
+git clone https://github.com/TT-CYBER-404/RANDOM.git
 cd RANDOM
-git pull
-python TURAG.py
+git pull 
+python iamback.py
 
 -------------------------------------
 Thanks For Using My Tools😘
